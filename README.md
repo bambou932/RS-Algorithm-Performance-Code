@@ -41,6 +41,6 @@ Matrix Factorization: [Paper](https://ieeexplore.ieee.org/document/5197422), [Co
 
 Factorization Machine: [Paper](https://ieeexplore.ieee.org/document/5694074), [Code](https://github.com/floraxhuang/Movie-Recommendation-System.git)
 
-Graph Convolutional Matrix Completion: [Page](https://arxiv.org/abs/1706.02263), [Code](https://github.com/riannevdberg/gc-mc.git)
+Graph Convolutional Matrix Completion: [Paper](https://arxiv.org/abs/1706.02263), [Code](https://github.com/riannevdberg/gc-mc.git)
 
-Inductive Graph Convolutional Matrix Completion: [Page](https://arxiv.org/abs/1904.12058), [Code](https://github.com/muhanzhang/IGMC.git)
+Inductive Graph Convolutional Matrix Completion: [Paper](https://arxiv.org/abs/1904.12058), [Code](https://github.com/muhanzhang/IGMC.git)
