@@ -1,3 +1,6 @@
+# Source
+Original paper: [Paper](https://arxiv.org/abs/1706.02263) [Code](https://github.com/riannevdberg/gc-mc.git)
+
 # Graph Convolutional Matrix Completion
 
 Tensorflow based implemention of Graph Convolutional Matrix Completion for recommender systems, based on our paper:

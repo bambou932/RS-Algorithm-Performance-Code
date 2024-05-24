@@ -34,3 +34,13 @@ The results of the algorithms are as follows:
 
 One can find results for FM and MF in the Jupyter Notebook cell output, 
 and for GC-MC and IGMC in the result.jpeg in the respective directories.
+
+## References
+
+Matrix Factorization: [Paper](https://ieeexplore.ieee.org/document/5197422) [Code](https://www.kaggle.com/code/phamdinhkhanh/matrix-factorization-movie-length-1m/notebook)
+
+Factorization Machine: [Paper](https://ieeexplore.ieee.org/document/5694074) [Code](https://github.com/floraxhuang/Movie-Recommendation-System.git)
+
+Graph Convolutional Matrix Completion: [Page] (https://arxiv.org/abs/1706.02263) [Code] (https://github.com/riannevdberg/gc-mc.git)
+
+Inductive Graph Convolutional Matrix Completion: [Page] (https://arxiv.org/abs/1904.12058) [Code] (https://github.com/muhanzhang/IGMC.git)
