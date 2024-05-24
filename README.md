@@ -17,7 +17,7 @@ which has Linux environment, Intel(R) Xeon(R) CPU @ 2.20GHz, 32GB RAM.
 In GC-MC and IGMC, the code is runned in Docker container, 
 which has Linux environment on macOS, Apple M1 Pro CPU @ 3.23GHz, 32GB RAM.
 
-The code has been modified during actual testing for error debugging, 
+Code in algorithms has been modified during actual testing for error debugging, 
 and various hyperparameters have been set and adjusted to achieve diverse results.
 
 ## Results
