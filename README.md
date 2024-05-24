@@ -33,4 +33,4 @@ The results of the algorithms are as follows:
 | IGMC      | 0.861 |
 
 One can find results for FM and MF in the Jupyter Notebook cell output, 
-and for GC-MC and IGMC in the result files in the respective directories.
+and for GC-MC and IGMC in the result.jpeg in the respective directories.
